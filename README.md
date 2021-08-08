@@ -1,6 +1,6 @@
 # CTM Summer Internship 2021
 
-This is thw code I developed for the CTM Summer Internship 2021 from INESC TEC.
+This is the code I developed for the CTM Summer Internship 2021 from INESC TEC.
 
 During the internship I used code that can't be made public so the code in this repository will not run.
 
